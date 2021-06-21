@@ -1,0 +1,30 @@
+body {
+    background: darkblue;
+    color: white;
+}
+
+.blue {
+    background: blue;
+    height: 400px;
+}
+
+.red {
+    background: red;
+    height: 400px;
+}
+
+.green {
+    background: green;
+    height: 400px;
+}
+
+.yellow {
+    background: yellow;
+    height: 400px;
+}
+
+.turquoise {
+    background: turquoise;
+    height: 660px;
+    margin-bottom: 30px;
+}
